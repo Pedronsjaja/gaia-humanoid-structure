@@ -4,10 +4,14 @@ Arquivos mecânicos e documentação de montagem da equipe **Gaia**, com referê
 
 ## Comece pelo que você precisa
 
+**Novo no projeto?** Siga a [trilha didática Atlas → GAIA](docs/estrutura/trilha-atlas-gaia.md), com leitura dos TAPs, fichas e entregas documentais para cada etapa.
+
 | Objetivo | Abrir |
 | --- | --- |
 | Aprender a encontrar e baixar arquivos | [Guia GitHub](docs/primeiros-passos-github.md) |
 | Escolher CAD, STEP ou STL | [Catálogo mecânico](hardware/README.md) |
+| Repassar o material à equipe | [Guia de repasse](docs/estrutura/repasse.md) |
+| Preencher lista de peças, juntas e ensaios | [Fichas de trabalho](docs/estrutura/fichas/README.md) |
 | Abrir o CAD compartilhado LX-224/LX-225 | [Montagem do servo](hardware/cad/servo-lx224-lx225/) |
 | Imprimir os suportes disponíveis | [STL](hardware/suportes/gaia-3d/STL/) |
 | Editar suportes em CAD | [STEP](hardware/suportes/gaia-3d/STEP/) · [Inventor](hardware/suportes/gaia-3d/IPT/) |
@@ -26,7 +30,7 @@ Arquivos mecânicos e documentação de montagem da equipe **Gaia**, com referê
 5. Registre material, parâmetros, massa, folgas, eixo e limites.
 6. Entregue esses dados à equipe de [simulação](https://github.com/Pedronsjaja/gaia-humanoid-simulation).
 
-Os arquivos incluem **29 itens mecânicos originais**, com [inventário de integridade](hardware/manifest.json). Ainda não há montagem completa Gaia nem ensaio estrutural aprovado dos suportes.
+O acervo mecânico anterior contém **29 itens**, com [inventário de integridade](hardware/manifest.json). Esta atualização acrescenta somente documentação: [TAPs](docs/projeto/README.md), trilha de estudo e fichas. Os desenhos locais da equipe, incluindo o protótipo do pé, ficam fora desta publicação.
 
 O painel joystick/OLED está em `firmware/` como componente auxiliar da montagem; seu firmware atual é de diagnóstico e não controla servos.
 
@@ -36,6 +40,7 @@ O painel joystick/OLED está em `firmware/` como componente auxiliar da montagem
 hardware/cad/          CAD e referências do servo
 hardware/suportes/     Peças nativas, STEP e STL
 docs/estrutura/        Orientações da frente mecânica
+docs/projeto/          TAPs históricos e contexto
 docs/modelo-gaia.md    Dados físicos para URDF e simulação
 docs/competicao/       Regras, fontes e requisitos
 docs/joystick.md       Painel auxiliar de diagnóstico

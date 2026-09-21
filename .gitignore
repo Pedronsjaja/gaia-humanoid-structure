@@ -12,6 +12,7 @@ servos.json
 resultados/
 resultados_lx225/
 *.csv
+!docs/estrutura/fichas/*.csv
 *.png
 !hardware/**/*.png
 
@@ -31,3 +32,8 @@ log/
 *.db3
 *.mcap
 *.egg-info/
+
+# Acervo local da equipe: fora desta publicação documental
+/hardware/prototipos/
+/hardware/referencias/
+/hardware/acervo-atlas.json

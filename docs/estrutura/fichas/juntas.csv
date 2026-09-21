@@ -1,0 +1,1 @@
+junta,tipo,corpo_pai,corpo_filho,origem_x_m,origem_y_m,origem_z_m,roll_rad,pitch_rad,yaw_rad,eixo_x,eixo_y,eixo_z,limite_min_rad,limite_max_rad,velocidade_max_rad_s,esforco_max_nm,servo_id,zero_servo_graus,sentido,relacao_transmissao,fonte,responsavel,estado

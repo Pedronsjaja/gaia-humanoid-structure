@@ -1,0 +1,20 @@
+{
+  "data": "2026-09-21",
+  "arquivos": [
+    {
+      "origem": "Simulação Física, Validação Cinemática e Integração ROS 2 _ Gazebo do Robô Humanoide-1.pdf",
+      "destino": "docs/projeto/fontes/Simulação Física, Validação Cinemática e Integração ROS 2 _ Gazebo do Robô Humanoide-1.pdf",
+      "bytes": 192475,
+      "sha256": "a5cd0ebe2bc029d5b6c6a77a91a49f5d0ec9a8dca4177791b894416dcc300e5a",
+      "acao": "copiado"
+    },
+    {
+      "origem": "TAP Servo Motor Hiwonder-2-1.pdf",
+      "destino": "docs/projeto/fontes/TAP Servo Motor Hiwonder-2-1.pdf",
+      "bytes": 168928,
+      "sha256": "c61f3bdb0fc8eb137891fba206246dfe294265d00deaaf62856a19080ca4ed36",
+      "acao": "copiado"
+    }
+  ],
+  "observacao": "Somente os dois TAPs foram incorporados nesta etapa. Desenhos e protótipos locais não fazem parte desta publicação."
+}

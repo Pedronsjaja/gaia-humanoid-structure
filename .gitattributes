@@ -12,6 +12,8 @@
 *.step binary
 *.stl binary
 *.ipt binary
+*.iam binary
+*.csv text eol=lf
 *.SLDPRT binary
 *.SLDASM binary
 *.pdf binary
