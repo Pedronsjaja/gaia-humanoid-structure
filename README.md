@@ -1,4 +1,38 @@
-# Gaia — estrutura, CAD e montagem do humanoide
+<div align="center">
+
+<h1>🛠️ Gaia &#183; Estrutura</h1>
+<p><strong>CAD, suportes e documenta&#231;&#227;o para construir e integrar o humanoide.</strong></p>
+<p><kbd>CAD &#183; STEP &#183; STL &#183; CBR Humanoid</kbd></p>
+
+<p><a href="https://github.com/Pedronsjaja/gaia-humanoid-structure/stargazers"><img alt="Estrelas no GitHub" src="https://img.shields.io/github/stars/Pedronsjaja/gaia-humanoid-structure?style=flat-square&amp;color=147d68"/></a> <a href="https://github.com/Pedronsjaja/gaia-humanoid-structure/commits/main"><img alt="Último commit" src="https://img.shields.io/github/last-commit/Pedronsjaja/gaia-humanoid-structure?style=flat-square&amp;color=235789"/></a></p>
+<p><a href="#inicio-rapido">Comece aqui</a> · <a href="#guia-do-projeto">Documentação</a> · <a href="https://github.com/Pedronsjaja/gaia-humanoid-structure/tree/main">Arquivos</a></p>
+
+</div>
+
+<a id="inicio-rapido"></a>
+## 🚀 Comece aqui
+
+**[Explorar o catálogo mecânico](hardware/README.md)**
+
+| Arquivos mecânicos | Montagem | Integração |
+| --- | --- | --- |
+| Peças nativas, STEP e STL organizados. | Roteiro de conferência e fabricação de teste. | Massas, eixos e limites para a simulação. |
+
+### Caminho do projeto
+
+```mermaid
+flowchart LR
+  N0["Escolher arquivo"]
+  N1["Conferir dimensões"]
+  N0 --> N1
+  N2["Fabricar teste"]
+  N1 --> N2
+  N3["Registrar resultados"]
+  N2 --> N3
+```
+
+<a id="guia-do-projeto"></a>
+## 📖 Documentação
 
 Arquivos mecânicos e documentação de montagem da equipe **Gaia**, com referência no **ROBOTIS OP3** e objetivo de participação na **CBR Humanoid**.
 
@@ -56,3 +90,4 @@ Consulte a [procedência da migração](docs/migracao.md). As licenças e autori
 | Instalar Ubuntu 24.04 e ROS 2 Jazzy | [Ambiente Linux / ROS 2](https://github.com/Pedronsjaja/gaia-ros2-ubuntu24) |
 
 Cada repositório tem seus próprios arquivos, Issues e histórico. Abra dúvidas na área correspondente; inclua links quando uma mudança depender de outra área.
+
