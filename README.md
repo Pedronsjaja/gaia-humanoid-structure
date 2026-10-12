@@ -91,3 +91,7 @@ Consulte a [procedência da migração](docs/migracao.md). As licenças e autori
 
 Cada repositório tem seus próprios arquivos, Issues e histórico. Abra dúvidas na área correspondente; inclua links quando uma mudança depender de outra área.
 
+
+## Engenharia e validacao
+
+[Estado tecnico, validacao e proximos passos](docs/engineering-status.md).
