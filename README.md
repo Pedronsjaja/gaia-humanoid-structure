@@ -46,6 +46,7 @@ Arquivos mecânicos e documentação de montagem da equipe **Gaia**, com referê
 | Imprimir os suportes disponíveis | [STL](hardware/suportes/gaia-3d/STL/) |
 | Editar suportes em CAD | [STEP](hardware/suportes/gaia-3d/STEP/) · [Inventor](hardware/suportes/gaia-3d/IPT/) |
 | Entender as entregas da frente mecânica | [Estrutura](docs/estrutura/README.md) |
+| Usar o agente de CAD e desenho técnico | [Gaia CAD](docs/estrutura/agente-cad.md) |
 | Escolher software para abrir as peças | [Softwares CAD](docs/softwares-cad.md) |
 | Preparar massas, eixos e limites para simulação | [Do CAD ao modelo Gaia](docs/modelo-gaia.md) |
 | Conferir limitações da CBR | [Regulamentos](docs/competicao/README.md) · [Matriz de requisitos](docs/competicao/matriz-requisitos.md) |

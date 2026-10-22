@@ -4,6 +4,8 @@
 
 Esta frente transforma a referência OP3 em uma montagem Gaia fabricável, com dimensões, rigidez, massas e manutenção documentadas.
 
+Para modelagem, desenhos cotados, vistas explodidas e preparação de fabricação, consulte o [agente Gaia CAD](agente-cad.md). O perfil usa as ferramentas disponíveis no ambiente; o acesso ao software deve ser confirmado a cada sessão.
+
 ## Comece aqui
 
 1. Abra o [catálogo CAD e suportes](../../hardware/README.md).

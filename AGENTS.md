@@ -12,3 +12,8 @@ Validacao: conferir manifestos, unidades e links; montagem, massa, inercia e fir
 Definition of Done: verificacoes pertinentes, documentacao das alteracoes,
 comandos reproduziveis e limites de validacao. Inspecao estatica nao comprova
 funcionamento fisico. Ver docs/engineering-status.md para prioridades e estudo.
+
+Para tarefas de CAD, montagem, desenho tecnico e fabricacao, consultar o perfil
+`.github/agents/gaia-cad.agent.md` e `docs/estrutura/agente-cad.md`.
+Esses arquivos definem o metodo; nao comprovam acesso a aplicativos nem
+substituem validacao dimensional, de simulacao ou de hardware.
