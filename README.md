@@ -1,13 +1,14 @@
-<div align="center">
+# GAIA Humanoid Structure
 
-<h1>🛠️ Gaia &#183; Estrutura</h1>
-<p><strong>CAD, suportes e documenta&#231;&#227;o para construir e integrar o humanoide.</strong></p>
-<p><kbd>CAD &#183; STEP &#183; STL &#183; CBR Humanoid</kbd></p>
+Mechanical CAD assets and integration documentation for the GAIA humanoid team.
 
-<p><a href="https://github.com/Pedronsjaja/gaia-humanoid-structure/stargazers"><img alt="Estrelas no GitHub" src="https://img.shields.io/github/stars/Pedronsjaja/gaia-humanoid-structure?style=flat-square&amp;color=147d68"/></a> <a href="https://github.com/Pedronsjaja/gaia-humanoid-structure/commits/main"><img alt="Último commit" src="https://img.shields.io/github/last-commit/Pedronsjaja/gaia-humanoid-structure?style=flat-square&amp;color=235789"/></a></p>
-<p><a href="#inicio-rapido">Comece aqui</a> · <a href="#guia-do-projeto">Documentação</a> · <a href="https://github.com/Pedronsjaja/gaia-humanoid-structure/tree/main">Arquivos</a></p>
+**Status: documented mechanical assets / work in progress.** Native CAD, STEP/STL supports and an integrity manifest are available. A complete GAIA kinematic assembly, identified dynamics and approved structural tests are not available.
 
-</div>
+**Portfolio role:** mechanical inputs for **Planned** CAD → URDF/USD → simulation → Digital Twin work. Masses, inertia, joint axes, zero positions, units and mechanical limits must be identified first. An OP3 reference model does not supply these GAIA measurements.
+
+[Mechanical catalog](hardware/README.md) · [Model-data contract](docs/modelo-gaia.md) · [Validation gaps](docs/engineering-status.md)
+
+Original files and team attribution are preserved. The catalog explicitly records unresolved third-party CAD authorship/licensing; this repository does not grant a new license to those assets.
 
 <a id="inicio-rapido"></a>
 ## 🚀 Comece aqui
