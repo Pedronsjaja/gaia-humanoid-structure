@@ -97,3 +97,7 @@ Cada repositório tem seus próprios arquivos, Issues e histórico. Abra dúvida
 ## Engenharia e validacao
 
 [Estado tecnico, validacao e proximos passos](docs/engineering-status.md).
+
+## Aula de Python, ROS 2 e servos
+
+Leia [Da câmera aos servos — guia ilustrado da equipe Gaia](https://github.com/Pedronsjaja/gaia-humanoid-simulation/blob/2db129f822519ea28f9817e6f49a3da896ee8ce6/docs/programacao/da-camera-aos-servos.md) (revisão fixa). Entenda quais dados de geometria, zero, sentido, transmissão e limites são necessários para transferir estudos do OP3 ao Gaia próprio. Movimentos no simulador não comprovam comportamento físico. A tomada de decisão/autonomia permanece pendente. O material reúne diagramas, ilustração conceitual, exercícios e referências; não implementa controle físico.
